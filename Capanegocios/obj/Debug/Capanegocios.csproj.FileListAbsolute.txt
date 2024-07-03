@@ -1,0 +1,18 @@
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\Capanegocios\bin\Debug\Capanegocios.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\Capanegocios\bin\Debug\Capanegocios.pdb
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\Capanegocios\bin\Debug\CapaDatos.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\Capanegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\Capanegocios\obj\Debug\Capanegocios.csprojAssemblyReference.cache
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\Capanegocios\obj\Debug\Capanegocios.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\Capanegocios\obj\Debug\Capanegocios.csproj.CopyComplete
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\Capanegocios\obj\Debug\Capanegocios.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\Capanegocios\obj\Debug\Capanegocios.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\Capanegocios\bin\Debug\CapaDatos.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\Capanegocios\bin\Debug\CapaDatos.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\Capanegocios\obj\Debug\Capanegocios.csproj.AssemblyReference.cache
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\Capanegocios\obj\Debug\Capanegocios.csproj.CoreCompileInputs.cache
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\Capanegocios\obj\Debug\Capanegocios.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\Capanegocios\obj\Debug\Capanegocios.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\Capanegocios\bin\Debug\Capanegocios.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\Capanegocios\bin\Debug\Capanegocios.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\Capanegocios\obj\Debug\Capanego.1D32DE9C.Up2Date

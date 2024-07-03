@@ -1,0 +1,12 @@
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\bin\Debug\CapaServicios.exe.config
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\bin\Debug\CapaServicios.exe
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\bin\Debug\CapaServicios.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\bin\Debug\CapaDatos.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\bin\Debug\Capanegocios.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\bin\Debug\CapaDatos.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\bin\Debug\Capanegocios.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\obj\Debug\CapaServicios.csproj.AssemblyReference.cache
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\obj\Debug\CapaServicios.csproj.CoreCompileInputs.cache
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\obj\Debug\CapaServ.91A61F36.Up2Date
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\obj\Debug\CapaServicios.exe
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\CapaServicios\obj\Debug\CapaServicios.pdb

@@ -1,0 +1,204 @@
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\WebAPIClinica.dll.config
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\WebAPIClinica.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\WebAPIClinica.pdb
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\csc.exe
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\csc.exe.config
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\csc.rsp
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\csi.exe
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\csi.exe.config
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\csi.rsp
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.AppContext.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Console.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\vbc.exe
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\vbc.exe.config
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\vbc.rsp
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\CapaDatos.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\Capanegocios.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\Newtonsoft.Json.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\System.Net.Http.Formatting.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.WebHost.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\CapaDatos.pdb
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\Capanegocios.pdb
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\Newtonsoft.Json.xml
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\System.Net.Http.Formatting.xml
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.xml
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.WebHost.xml
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.csprojAssemblyReference.cache
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.csproj.CoreCompileInputs.cache
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.csproj.CopyComplete
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.dll
+C:\Users\Nataly Tepox\Documents\9no\web\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\WebAPIClinica.dll.config
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\WebAPIClinica.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\WebAPIClinica.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\csc.exe
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\csc.exe.config
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\csc.rsp
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\csi.exe
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\csi.exe.config
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\csi.rsp
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.AppContext.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Console.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.Compression.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Claims.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.ValueTuple.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\vbc.exe
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\vbc.exe.config
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\vbc.rsp
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\VBCSCompiler.exe
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\CapaDatos.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\Capanegocios.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\Newtonsoft.Json.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\System.Net.Http.Formatting.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.WebHost.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\CapaDatos.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\Capanegocios.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\Newtonsoft.Json.xml
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\System.Net.Http.Formatting.xml
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.xml
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.WebHost.xml
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.csproj.AssemblyReference.cache
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.csproj.CoreCompileInputs.cache
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPICl.6438435F.Up2Date
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinica\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\WebAPIClinica.dll.config
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\WebAPIClinica.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\WebAPIClinica.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\csc.exe
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\csc.exe.config
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\csc.rsp
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\csi.exe
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\csi.exe.config
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\csi.rsp
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.AppContext.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Console.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.Compression.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.IO.Pipes.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Claims.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.ValueTuple.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\vbc.exe
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\vbc.exe.config
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\vbc.rsp
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\VBCSCompiler.exe
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\CapaDatos.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\Capanegocios.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\Newtonsoft.Json.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\System.Net.Http.Formatting.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.WebHost.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\CapaDatos.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\Capanegocios.pdb
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\Newtonsoft.Json.xml
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\System.Net.Http.Formatting.xml
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.xml
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\System.Web.Http.WebHost.xml
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.csproj.AssemblyReference.cache
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.csproj.CoreCompileInputs.cache
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPICl.6438435F.Up2Date
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.dll
+C:\Users\leysd\Desktop\todo\ProyectoClinicaFinal\ProyectoClinica\WebAPIClinica\obj\Debug\WebAPIClinica.pdb

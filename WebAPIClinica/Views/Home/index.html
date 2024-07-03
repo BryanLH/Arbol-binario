@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Árbol Binario de Pacientes</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        #arbol-container {
+            margin-top: 20px;
+            white-space: pre-wrap;
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .form-container {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #e9ecef;
+            border-radius: 5px;
+        }
+
+            .form-container input {
+                margin-bottom: 10px;
+                padding: 8px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                width: 100%;
+            }
+
+            .form-container button {
+                padding: 10px 15px;
+                background-color: #007bff;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+                .form-container button:hover {
+                    background-color: #0056b3;
+                }
+    </style>
+</head>
+<body>
+    <h1>Árbol Binario de Pacientes</h1>
+
+    <div class="form-container">
+        <h2>Agregar Paciente</h2>
+        <form id="formAgregar">
+            <input type="text" id="nombre" placeholder="Nombre" required />
+            <input type="text" id="numSocial" placeholder="Número de Seguro Social" required />
+            <input type="number" id="edad" placeholder="Edad" min="0" required />
+            <button type="submit">Agregar Paciente</button>
+        </form>
+    </div>
+
+    <div class="form-container">
+        <h2>Buscar Paciente</h2>
+        <form id="formBuscar">
+            <input type="text" id="numSocialBuscar" placeholder="Número de Seguro Social" required />
+            <button type="submit">Buscar Paciente</button>
+        </form>
+        <div id="paciente-container"></div>
+    </div>
+
+    <div class="form-container">
+        <h2>Eliminar Paciente</h2>
+        <form id="formEliminar">
+            <input type="text" id="numSocialEliminar" placeholder="Número de Seguro Social" required />
+            <button type="submit">Eliminar Paciente</button>
+        </form>
+    </div>
+
+    <div class="form-container">
+        <h2>Balancear Árbol</h2>
+        <button onclick="balancearArbol()">Balancear Árbol</button>
+    </div>
+
+    <button onclick="mostrarArbol()">Mostrar Árbol</button>
+    <div id="arbol-container"></div>
+
+    <script>
+        // Función para agregar un paciente
+        document.getElementById('formAgregar').addEventListener('submit', async function (event) {
+            event.preventDefault();
+            const nombre = document.getElementById('nombre').value;
+            const numSocial = document.getElementById('numSocial').value;
+            const edad = parseInt(document.getElementById('edad').value);
+
+            try {
+                // Verificar si el paciente ya existe antes de agregarlo
+                const respuesta = await axios.get(`/api/arbol/buscar/${numSocial}`);
+                if (respuesta.status === 200) {
+                    // Si el paciente existe, muestra un mensaje de error
+                    alert('Paciente con este número de seguro social ya existe');
+                    return;
+                }
+            } catch (error) {
+                // Si no existe, continuar con la adición del paciente
+                try {
+                    await axios.post('/api/arbol/agregar', { Nombre: nombre, NumSocial: numSocial, Edad: edad });
+                    alert('Paciente agregado');
+                    document.getElementById('formAgregar').reset();
+                    mostrarArbol(); // Mostrar el árbol después de agregar un paciente
+                } catch (error) {
+                    console.error('Error al agregar paciente:', error);
+                    alert('Error al agregar paciente: ' + error.message);
+                }
+            }
+        });
+
+        // Función para buscar un paciente
+        document.getElementById('formBuscar').addEventListener('submit', async function (event) {
+            event.preventDefault();
+            const numSocial = document.getElementById('numSocialBuscar').value;
+
+            try {
+                const response = await axios.get(`/api/arbol/buscar/${numSocial}`);
+                const paciente = response.data;
+                const pacienteContainer = document.getElementById('paciente-container');
+                pacienteContainer.innerHTML = `<p>${paciente.NumSocial} - ${paciente.Nombre} - ${paciente.Edad}</p>`;
+                alert('Paciente encontrado');
+            } catch (error) {
+                console.error('Error al buscar paciente:', error);
+                alert('Paciente no encontrado: ' + error.message);
+                document.getElementById('paciente-container').innerHTML = '';
+            }
+        });
+
+        // Función para eliminar un paciente
+        document.getElementById('formEliminar').addEventListener('submit', async function (event) {
+            event.preventDefault();
+            const numSocial = document.getElementById('numSocialEliminar').value;
+
+            try {
+                await axios.delete(`/api/arbol/eliminar/${numSocial}`);
+                alert('Paciente eliminado');
+                document.getElementById('formEliminar').reset();
+                mostrarArbol(); // Mostrar el árbol después de eliminar un paciente
+            } catch (error) {
+                console.error('Error al eliminar paciente:', error);
+                alert('Error al eliminar paciente: ' + error.message);
+            }
+        });
+
+        // Función para balancear el árbol
+        async function balancearArbol() {
+            try {
+                await axios.post('/api/arbol/balancear');
+                alert('Árbol balanceado');
+                mostrarArbol(); // Mostrar el árbol después de balancearlo
+            } catch (error) {
+                console.error('Error al balancear el árbol:', error);
+                alert('Error al balancear el árbol: ' + error.message);
+            }
+        }
+
+        // Función para mostrar el árbol
+        async function mostrarArbol() {
+            try {
+                const response = await axios.get('/api/arbol/mostrar');
+                const pacientes = response.data;
+                const arbolContainer = document.getElementById('arbol-container');
+                arbolContainer.innerHTML = '<pre>' + JSON.stringify(pacientes, null, 2) + '</pre>';
+                alert('Árbol mostrado');
+            } catch (error) {
+                console.error('Error al mostrar el árbol:', error);
+                alert('Error al mostrar el árbol: ' + error.message);
+            }
+        }
+    </script>
+</body>
+</html>
